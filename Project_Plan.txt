@@ -1,0 +1,4 @@
+ PROJECT PLAN : PMO TRACKING assets /
+GOAL : Centralized asset Management /
+LOCATION : DELHI ,MUMBAI,PUNE,HYDERABAD,CHENNAI /
+TEAMS : ALL TEAMS : Unix , DB , Sertver, Windows , HR , Maintenamce , Storage , Backup , etc.
